@@ -21,6 +21,7 @@ public class Ejercicio1 {
        int num1,num2,suma;
        int nombre;
        int numeros;
+       String nom;
         System.out.println("ingrese el primer numero:");
      num1= leer.nextInt();
         System.out.println("ingrese el segundo numero");

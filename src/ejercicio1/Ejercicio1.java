@@ -20,6 +20,7 @@ public class Ejercicio1 {
         Scanner leer= new Scanner(System.in);   
        int num1,num2,suma;
        int nombre;
+       int numeros;
         System.out.println("ingrese el primer numero:");
      num1= leer.nextInt();
         System.out.println("ingrese el segundo numero");
